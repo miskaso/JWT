@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'main',
     'rest_framework',
     'rest_framework_simplejwt',
+    'drf_yasg',
+
 
 ]
 
